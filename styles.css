@@ -126,6 +126,9 @@ p {
 }
 
 @media (max-width: 992px) {
+    html {
+        font-size: 12px;
+    }
     .iphone6 {
         position: static;
         transform: rotate(0);
